@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerSwordLowerMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Gun
+    m_Weight: 0
+  - m_Path: PlayerCtrl
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips/Spine
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/Hat1
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/Hat1/Hat2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4/Hat5
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/Hat1/Hat2/Hat3/Hat4/Hat5/HatEnd
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/LeftBrow3
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/LeftBrow3/LeftBrow3End
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/LeftBrow2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/LeftBrow2/LeftBrow2End
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/LeftBrow1
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/LeftBrow1/LeftBrow1End
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/RightBrow1
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/RightBrow1/RightBrow1End
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/RightBrow2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/RightBrow2/RightBrow2End
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/RightBrow3
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/Head/RightBrow3/RightBrow3End
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftHand1
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftHand1/LeftHand2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftThumb1
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm/LeftLowerArm/LeftLowerArm2/LeftWrist/LeftThumb1/LeftThumb2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK/LeftLowerArm_2_FK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_FK/LeftLowerArm_FK/LeftLowerArm_2_FK/LeftWrist_FK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK/LeftLowerArm2_IK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/LeftShoulder/LeftUpperArm_IK/LeftLowerArm_IK/LeftLowerArm2_IK/LeftWrist_IK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightHand1
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightHand1/RightHand2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightThumb1
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm/RightLowerArm/RightLowerArm2/RightWrist/RightThumb1/RightThumb2
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK/RightLowerArm2_FK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_FK/RightLowerArm_FK/RightLowerArm2_FK/RightWrist_FK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK/RightLowerArm2_IK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/Spine/RightShoulder/RightUpperArm_IK/RightLowerArm_IK/RightLowerArm2_IK/RightWrist_IK
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Root/Hips/HipSway
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips/HipSway/LeftLeg
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips/HipSway/LeftLeg/LeftToe
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips/HipSway/RightLeg
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips/HipSway/RightLeg/RightToe
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips/Tail1
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips/Tail1/Tail2
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Root/Hips/Tail1/Tail2/Tail3
+    m_Weight: 1
+  - m_Path: PlayerCtrl/Ctrl_Grp
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Ctrl_Grp/Gun 1
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Ctrl_Grp/Gun 1/GunBarrelStretch
+    m_Weight: 0
+  - m_Path: PlayerCtrl/Ctrl_Grp/Gun 1/GunBarrelStretch/GunBarrelEnd
+    m_Weight: 0
+  - m_Path: Player
+    m_Weight: 0

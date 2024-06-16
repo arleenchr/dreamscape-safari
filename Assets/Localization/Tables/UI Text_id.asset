@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: cf06571334580684798657c9db33f357, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 436524998656
+    m_Localized: PERMAINAN BARU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511506571264
+    m_Localized: MUAT PERMAINAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754767814656
+    m_Localized: STATS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 814742167552
+    m_Localized: PENGATURAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 874557136896
+    m_Localized: KELUAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 940072165376
+    m_Localized: LANJUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1024184737792
+    m_Localized: SIMPAN PERMAINAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090723176448
+    m_Localized: Akurasi Tembakan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1196792930304
+    m_Localized: Jarak Tempuh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1294696374272
+    m_Localized: Waktu Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1362249834496
+    m_Localized: Jumlah Kill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1431267106816
+    m_Localized: Tangkis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1504076029952
+    m_Localized: Koin Habis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624595161088
+    m_Localized: Nama Pemain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1697664131072
+    m_Localized: Volume BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1779885072384
+    m_Localized: Volume SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1845265883136
+    m_Localized: Kesulitan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1936190005248
+    m_Localized: Mudah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1973485756416
+    m_Localized: Sedang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2018079596544
+    m_Localized: Sulit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2060047802368
+    m_Localized: Bahasa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219854882398208
+    m_Localized: Coba Lagi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220204926427136
+    m_Localized: Menu Utama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008050943557632
+    m_Localized: Nama Save
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

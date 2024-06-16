@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Quests Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Quests
+  m_TableCollectionNameGuidString: 90a09e8174f27b648a874acdc1877add
+  m_Entries:
+  - m_Id: 13873373184
+    m_Key: quests.1.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450936627200
+    m_Key: quests.1.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1825062502719488
+    m_Key: quests.2.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1825386634338304
+    m_Key: quests.2.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1825986281398272
+    m_Key: quests.3.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1826159367741440
+    m_Key: quests.3.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1826914120163328
+    m_Key: quests.4.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1827211710226432
+    m_Key: quests.4.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007109874868224
+    m_Key: prequest.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007222957498368
+    m_Key: prequest.description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5113592033239040
+    m_Key: lounge.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5113970388819968
+    m_Key: lounge.description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4692820676441800766
+  references:
+    version: 2
+    RefIds:
+    - rid: 4692820676441800766
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1714120507867

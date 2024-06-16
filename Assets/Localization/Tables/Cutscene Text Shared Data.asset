@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Cutscene Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Cutscene Text
+  m_TableCollectionNameGuidString: 5ce24691b9186d345b4c90f60c665f24
+  m_Entries:
+  - m_Id: 5277004189065216
+    m_Key: custscene.intro.narration1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5277719024295936
+    m_Key: cutscene.intro.mom.dialogue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5278075087151104
+    m_Key: cutscene.intro.max.dialogue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5278417363329024
+    m_Key: cutscene.intro.narration2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5279118881644544
+    m_Key: cutscene.intro.mom.dialogue2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5279349786468352
+    m_Key: cutscene.intro.max.dialogue2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285086923251712
+    m_Key: cutscene.introcastle.narration1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285566365753344
+    m_Key: cutscene.introcastle.narration2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285873514635264
+    m_Key: cutscene.introcastle.narration3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286090972520448
+    m_Key: cutscene.introcastle.max.dialogue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286091878490112
+    m_Key: cutscene.introcastle.npc.dialogue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286408896569344
+    m_Key: cutscene.introcastle.max.dialogue2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286494447788032
+    m_Key: cutscene.introcastle.npc.dialogue2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286597032075264
+    m_Key: cutscene.introcastle.max.dialogue3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286758969958400
+    m_Key: cutscene.introcastle.npc.dialogue3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287293806632960
+    m_Key: cutscene.introcastle.max.dialogue4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287793356627968
+    m_Key: cutscene.introcastle.npc.dialogue4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287902043627520
+    m_Key: cutscene.introcastle.max.dialogue5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287984067436544
+    m_Key: cutscene.introcastle.npc.dialogue5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522574807851008
+    m_Key: cutscene.lounge1.npc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522830345822208
+    m_Key: cutscene.lounge1.npc2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522915578273792
+    m_Key: cutscene.lounge1.npc3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522998721961984
+    m_Key: cutscene.lounge1.npc4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5523120121896960
+    m_Key: cutscene.lounge1.npc5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915545738862592
+    m_Key: cutscene.ending.narration1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915943010754560
+    m_Key: cutscene.ending.mom.dialogue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916186355884032
+    m_Key: cutscene.ending.max.dialogue1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916325233483776
+    m_Key: cutscene.ending.narration2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916613302476800
+    m_Key: cutscene.ending.max.dialogue2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916752108773376
+    m_Key: cutscene.ending.narration3
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3150567507627344217
+  references:
+    version: 2
+    RefIds:
+    - rid: 3150567507627344217
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1713757191488

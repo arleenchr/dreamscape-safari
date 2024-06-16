@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5ce24691b9186d345b4c90f60c665f24, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5278075087151104
+    m_Localized: 'Max:
+
+      (Smiling joyfully)
+
+      Waoa gaga gugu hiyee hyaee
+      whuuu'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5277719024295936
+    m_Localized: 'Mom:
+
+      Wah... Max is playing with his plushie. Come on, let''s
+      go sleep, it''s getting late. We''ll continue playing together tomorrow, okay?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5277004189065216
+    m_Localized: Once upon a time, there lived a 1.5 y.o. baby boy named Max, swinging
+      his kingkong plushie. Then his mom enter his bedroom, picking him up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5278417363329024
+    m_Localized: Mom carried Max to his bassinets besides her bed. The sleeping sound
+      of music plays slowly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5279118881644544
+    m_Localized: 'Mom:
+
+      Help!!! Help mommy, Maaaaaaax!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5279349786468352
+    m_Localized: "Max:\nMama\u2026??? MAMAAAAA!!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285086923251712
+    m_Localized: Max woke up, stunned. He saw his surroundings. Now he's on a long
+      bridge made entirely of stone, stretched at a height of 15 meters above the
+      ground.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285566365753344
+    m_Localized: 'Before him stood firmly the entrance gate of a medieval castle.
+      It is very majestic, big, dark, scary, and supported by 4 PILLARS OF DESPAIR:
+      FAILURE, DEMOTIVATION, DEPRESSION, and HOPELESSNESS. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285873514635264
+    m_Localized: Initiatively look under the bridge, Max was very surprised because
+      in that kingdom there was not a single human, but only animals that could walk
+      and move like humans!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286090972520448
+    m_Localized: 'Max:
+
+      Why am I here? Just then, it''s Mom''s scream, isn''t
+      it? Where''s Mommy?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286091878490112
+    m_Localized: "Bunny:\nMax, it's a relief that you're here. Your mother has been
+      captured by King Kong!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286408896569344
+    m_Localized: 'Max:
+
+      King Kong?! Who is he?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286494447788032
+    m_Localized: 'Bunny:
+
+      You don''t know? Kong is the king of this castle.
+      No one dared to challenge him. Once he fires his shotgun, even a burly opponent
+      can''t move!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286597032075264
+    m_Localized: 'Max:
+
+      What? How strong is he? I don''t care! If he dares
+      to mess with Mama, it means he has to face me!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286758969958400
+    m_Localized: 'Bunny:
+
+      Only you can save your mother, Max! But you should
+      know, this castle is protected by layers of guards. You have to go through
+      three stages to meet King Kong in person. Are you ready?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287293806632960
+    m_Localized: 'Max:
+
+      I must be able to fight them! I must save my mother!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287793356627968
+    m_Localized: "Bunny:\nFight, Max! I can only provide some of these pieces of
+      equipment for you.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287902043627520
+    m_Localized: 'Max:
+
+      What''s this? A weapon?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287984067436544
+    m_Localized: 'Bunny:
+
+      These are "RIFLE" and "SWORD" that can defeat your
+      enemies. Along the way, discover new weapons! Come on, Max, your mother is
+      waiting!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522574807851008
+    m_Localized: Fighting, Max! Save your mother!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522830345822208
+    m_Localized: "Oh\u2026 New visitor? Good luck!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522915578273792
+    m_Localized: Buy something from the shopkeeper.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522998721961984
+    m_Localized: Pick up POWER ORBS to boost your attacks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5523120121896960
+    m_Localized: It looks like you need a pet to accompany you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915545738862592
+    m_Localized: "Successfully defeating Kong, Max finally woke up in his bassinet.
+      He opened his eyes slowly. In a still faint view, Max saw the figure of Mom
+      beside him.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915943010754560
+    m_Localized: 'Mom:
+
+      Woah, our baby is awake!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916186355884032
+    m_Localized: "Max:\nwagaga buuuu mamaaa\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916325233483776
+    m_Localized: 'Mom carried him outside of the room. Realizing that the kingkong
+      plushie was still in his grasp, Max immediately threw it away on the floor.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916613302476800
+    m_Localized: 'Max:
+
+      (sticking out his tongue to mock kingkong)
+
+      Weeeeee!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916752108773376
+    m_Localized: "In the bottom of Max's heart, he thought this was the proudest
+      thing in his life. His merit will not be forgotten, that is, to defeat Kong
+      and save Mom!\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

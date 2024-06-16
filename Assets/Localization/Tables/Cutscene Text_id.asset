@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene Text_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 5ce24691b9186d345b4c90f60c665f24, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5278417363329024
+    m_Localized: Ibu membawa Max masuk ke dalam keranjang bayi, yang diletakkan bersebelahan
+      dengan tempat tidurnya. Musik tidur bayi mengalun perlahan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5279349786468352
+    m_Localized: "Max:\nMama\u2026??? MAMAAAAA!!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5279118881644544
+    m_Localized: "Ibu:\nTolonggg!!! Tolong Mama, Maaaaaaax!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5278075087151104
+    m_Localized: "Max:\n(Sambil tersenyum girang)\nWaoa gaga gugu hiyee hyaee whuuu\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5277719024295936
+    m_Localized: "Ibu:\nWah\u2026 Max lagi seru yah main bonekanya.\r\nTidur dulu
+      yuk Max, sudah malam nih. \r\nBesok kita main lagi sama-sama ya.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5277004189065216
+    m_Localized: Di suatu rumah, seorang bayi 1,5 tahun bernama Max, terpantau asyik
+      mengayun-ayunkan boneka kingkong. Ibunya lantas masuk ke dalam kamar, menggendong
+      Max yang masih menggenggam erat mainannya itu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285086923251712
+    m_Localized: Max terbangun dengan kaget. Dilihatnya sekeliling. Kini ia berada
+      di atas sebuah jembatan panjang yang seluruhnya terbuat dari susunan batu,
+      terbentang di ketinggian 15 meter dari atas tanah.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285566365753344
+    m_Localized: 'Di hadapannya berdiri kokoh gerbang masuk sebuah istana abad pertengahan.
+      Istana tersebut sangat megah, besar, gelap, menakutkan, dan ditopang oleh 4
+      PILAR KEPUTUSASAAN: FAILURE, DEMOTIVATION, DEPRESSION, dan HOPELESSNESS. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285873514635264
+    m_Localized: Berinisiatif untuk melihat ke bawah jembatan, Max dibuat amat terkejut
+      karena di kerajaan itu tidak ada seorang pun manusia, melainkan hanya ada binatang
+      yang dapat berjalan dan beraktivitas layaknya manusia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286090972520448
+    m_Localized: "Max:\nKenapa aku ada di sini? Barusan, itu suara teriakan Mama,
+      kan? Di mana Mama?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286091878490112
+    m_Localized: 'Kelinci:
+
+      Max, lega rasanya karena kamu ada di sini. Ibumu
+      telah ditangkap oleh King Kong!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286408896569344
+    m_Localized: 'Max:
+
+      King Kong?! Siapa dia?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286494447788032
+    m_Localized: 'Kelinci:
+
+      Kamu tidak tahu? Kong adalah raja di kastil ini.
+      Tidak ada seorang pun yang berani menantangnya. Sekali dia menembakkan shotgun-nya,
+      lawan yang kekar sekali pun tidak bisa berkutik!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286597032075264
+    m_Localized: "Max:\nApa? Sekuat itukah dia? Aku tidak peduli! Jika dia berani
+      berurusan dengan Mama, berarti dia harus menghadapi aku!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286758969958400
+    m_Localized: 'Bunny:
+
+      Justru hanya kamu yang dapat menyelamatkan ibumu,
+      Max! Namun kamu harus tahu, kastil ini dilindungi oleh penjagaan berlapis.
+      Kamu harus melewati tiga tahap untuk bertemu langsung dengan King Kong. Apakah
+      kamu siap?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287293806632960
+    m_Localized: 'Max:
+
+      Aku harus bisa melawan mereka! Aku harus menyelamatkan
+      ibuku!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287793356627968
+    m_Localized: "Bunny:\nBerjuanglah, Max! Aku hanya bisa menyediakan beberapa peralatan
+      ini untuk kamu.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287902043627520
+    m_Localized: "Max:\nApa ini? Sebuah senjata?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5287984067436544
+    m_Localized: "Bunny:\nIni adalah \u201CRIFLE\u201D dan \u201CSWORD\u201D yang
+      bisa mengalahkan musuh-musuhmu. Sepanjang perjalanan, temukanlah berbagai persenjataan
+      baru! Ayo, Max, ibumu sudah menunggu!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522574807851008
+    m_Localized: "Berjuanglah, Max! Selamatkan ibumu!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522830345822208
+    m_Localized: "Oh\u2026 Pendatang baru, ya? Semoga beruntung!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522915578273792
+    m_Localized: Belilah sesuatu dari shopkeeper.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5522998721961984
+    m_Localized: Ambil POWER ORBS untuk meningkatkan kekuatanmu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5523120121896960
+    m_Localized: 'Kelihatannya, kau butuh seekor pet
+
+      untuk menemanimu.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915545738862592
+    m_Localized: "Berhasil mengalahkan Kong, Max akhirnya terbangun di keranjangnya.
+      Perlahan-lahan ia membuka mata. Dalam pandangan yang masih sayu, Max melihat
+      sosok Ibu di sampingnya.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5915943010754560
+    m_Localized: 'Ibu:
+
+      Wah, anak Ibu udah bangun! '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916186355884032
+    m_Localized: "Max:\nwagaga buuuu mamaaa\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916325233483776
+    m_Localized: "Ibu menggendongnya menuju keluar kamar. Sadar boneka kingkong masih
+      berada dalam genggamannya, Max langsung melempar mainan itu ke lantai.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916613302476800
+    m_Localized: 'Max:
+
+      (menjulurkan lidah untuk mengejek kingkong)
+
+      Weeeeee!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5916752108773376
+    m_Localized: "Di lubuk hati Max, ia mengira ini adalah hal paling membanggakan
+      seumur hidupnya. Jasanya tidak akan terlupakan, yaitu mengalahkan Kong dan
+      menyelamatkan Ibu!\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

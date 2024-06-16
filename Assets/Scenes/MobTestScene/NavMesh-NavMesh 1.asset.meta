@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/World/Double Door Auto Open.prefab.meta
+guid: 3e764962f8bd41448b2dd2559776a194
+PrefabImporter:
+========
+guid: 20dfea4386222f5469d1f69f49b6d079
+NativeFormatImporter:
+>>>>>>>> d10737f (feat: mob capsule collider and weapon):Assets/Scenes/MobTestScene/NavMesh-NavMesh 1.asset.meta
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

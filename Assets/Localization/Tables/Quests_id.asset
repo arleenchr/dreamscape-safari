@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Quests_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 90a09e8174f27b648a874acdc1877add, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13873373184
+    m_Localized: 'KEGAGALAN: Percobaan Ketepatan'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450936627200
+    m_Localized: Kalahkan semua musuh sebelum waktu habis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1825062502719488
+    m_Localized: 'DEMOTIVASI: Percobaan Ketahanan'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1825386634338304
+    m_Localized: Bertahan sampai waktu habis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1825986281398272
+    m_Localized: 'DEPRESI: Percobaan Adaptasi'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1826159367741440
+    m_Localized: Kabur dari labirin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1826914120163328
+    m_Localized: 'KEPUTUSASAAN: Pertarungan Terakhir'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1827211710226432
+    m_Localized: Taklukkan Raja Kong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007109874868224
+    m_Localized: PERCOBAAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007222957498368
+    m_Localized: Taklukkan semua musuh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5113592033239040
+    m_Localized: Lounge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5113970388819968
+    m_Localized: Istirahat dan beli pet
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
